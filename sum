@@ -1,4 +1,5 @@
 #!/bin/bash
+#Author Yilun Cheng
 sum=0
 for i in $@ 
 do
